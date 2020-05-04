@@ -72,7 +72,7 @@ This glossary is a living, breathing, growing work in progress. If there's a ter
 | **Face Puncher** | A pattern that consists of one or two diagonal up blocks crossed over into the extreme opposite lane. Many players will overswing trying to reach and end up punching their HMD.  |
 | **Face Wall** | Wall occupying one of the two center lanes. Also known as dodge walls. |
 | **Fake Wall** | Wall with a negative width value, making it harmless to the player. |
-| **Fast Walls** | Wall with a negative duration value that appears to move past the player at super speed. Also known as Hyper Walls. |
+| **Fast Walls** | Wall with a negative duration value that appears to move past the player at super speed. See also: Hyper Walls. |
 | **First Person Flying Control** | A launch option available to SteamVR and Oculus users to launch Beat Saber and have limited keyboard and mouse control over the game in a first person view. Very helpful for getting an accurate preview of lighting or walls or accessing the official editor. Abbreviated FPFC |
 | **Fixed BPM** | A song with a consistent BPM from start to finish with no variation. Also known as Single BPM. See also Variable BPM |
 | **Flow** | The concept of placing block patterns so that the next swing a player makes feels natural and allows the body to move in proper ways. |
@@ -93,7 +93,7 @@ This glossary is a living, breathing, growing work in progress. If there's a ter
 | **Hitbox** | The region where the saber collides with an object. Note hitboxes are larger than they visually appear, bomb hitboxes are smaller than they appear, and wall hitboxes are exact |
 | **Hook** | A pattern of two sequential up/down blocks of the same color with usually one lane in between. The players arm makes a hook motion to play the pattern. |
 | **Hot Start** | When the first notes of a map appear within two seconds of the beginning of the song. |
-| **Hyper Walls** | Wall with a negative duration value that appears to move past the player at super speed. Also known as Fast Walls. |
+| **Hyper Walls** | A variation of fast walls with more negative length, allowing them to move past the player at an even faster speed that creates a "pop" effect. See also: Fast Walls.|
 
 ## I
 | Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Definition |
